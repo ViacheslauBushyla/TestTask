@@ -6,6 +6,7 @@ import random
 import re
 import sys
 
+# this my function
 def parse(source, queries):
    result = []   
    for query in queries:      
